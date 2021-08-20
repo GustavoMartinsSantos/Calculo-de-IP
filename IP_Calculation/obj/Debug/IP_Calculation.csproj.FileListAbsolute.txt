@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\Calculo-de-IP\IP_Calculation\bin\Debug\IP_Calculation.exe.config
+C:\Users\Gustavo\Desktop\Calculo-de-IP\IP_Calculation\bin\Debug\IP_Calculation.exe
+C:\Users\Gustavo\Desktop\Calculo-de-IP\IP_Calculation\bin\Debug\IP_Calculation.pdb
+C:\Users\Gustavo\Desktop\Calculo-de-IP\IP_Calculation\obj\Debug\IP_Calculation.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Calculo-de-IP\IP_Calculation\obj\Debug\IP_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Calculo-de-IP\IP_Calculation\obj\Debug\IP_Calculation.exe
+C:\Users\Gustavo\Desktop\Calculo-de-IP\IP_Calculation\obj\Debug\IP_Calculation.pdb
+C:\Users\Gustavo\Desktop\RepositoriosLocais\Calculo-de-IP\IP_Calculation\bin\Debug\IP_Calculation.exe.config
+C:\Users\Gustavo\Desktop\RepositoriosLocais\Calculo-de-IP\IP_Calculation\bin\Debug\IP_Calculation.exe
+C:\Users\Gustavo\Desktop\RepositoriosLocais\Calculo-de-IP\IP_Calculation\bin\Debug\IP_Calculation.pdb
+C:\Users\Gustavo\Desktop\RepositoriosLocais\Calculo-de-IP\IP_Calculation\obj\Debug\IP_Calculation.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\RepositoriosLocais\Calculo-de-IP\IP_Calculation\obj\Debug\IP_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\RepositoriosLocais\Calculo-de-IP\IP_Calculation\obj\Debug\IP_Calculation.exe
+C:\Users\Gustavo\Desktop\RepositoriosLocais\Calculo-de-IP\IP_Calculation\obj\Debug\IP_Calculation.pdb
